@@ -1,5 +1,5 @@
 {
   "name": "adnan-cefalo/advanced-custom-fields-pro",
   "description": "Advanced Custom Fields Pro, Git-ified. Synced manual! This repository is just a mirror of the Advanced Custom Fields Pro plugin. Please do not send pull requests and issues.",
-  "type": "wordpress-plugins"
+  "type": "wordpress-plugin"
 }
